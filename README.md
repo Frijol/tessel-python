@@ -1,5 +1,7 @@
 # tessel-python
 
+**Not currently in active development. [Read the blog post](https://tessel.io/blog/146714850172/ramping-up-rust-backing-away-from-python-johnny) explaining why.**
+
 We're authoring a Python library for Tessel. 
 
 * Goal: be the low-level interface for Tessel's high speed GPIO interfaces, on which other modules can build.
